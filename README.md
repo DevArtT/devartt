@@ -1,7 +1,7 @@
 ## <h1 align="center">Olá 👋, Eu sou Arthur Telles</h1>
 <h3 align="center">Um desenvolvedor front-end do Brasil</h3>
 
-- 🌱 Estou aprendendo atualmente: **mobile-first, interpretar protótipos do Figma, criar layouts responsivos com media queries, aplicar Flexbox, integrar carrosséis SwiperJS e refaturar CSS para desktop.**
+- 🌱 Estou aprendendo atualmente: **mobile-first, interpretar protótipos do Figma, criar layouts responsivos com media queries, aplicar Flexbox, integrar carrosséis SwiperJS e refatorar CSS para desktop.**
 
 - ⁇ Todos os meus projetos estão disponíveis em [https://github.com/DevArtT](https://github.com/DevArtT)
 
